@@ -1,0 +1,4 @@
+com.nimishnarang.softball_team_creator
+drawable launch_background
+mipmap ic_launcher
+style LaunchTheme
